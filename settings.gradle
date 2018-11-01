@@ -1,0 +1,1 @@
+include ':CP_A', ':CP_B', ':AIDL_Server', ':AIDL_Client'

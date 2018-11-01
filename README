@@ -1,0 +1,8 @@
+###IPC
+1,Content Provider
+CP_A：服务端，开放uri
+CP_B：客户端
+
+2，Binder
+AIDL_Server：服务端
+AIDL_Client：客户端
